@@ -6,9 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharath-sasidharan" alt="Sharath-Sasidharan" /> </p>
 <p align="center">
-- 🔭 I’m currently working on **dataseers**
+- 🔭 I’m currently working on <strong>Dataseers</strong> as <strong>Full Stack Developer</strong>
 <p align="center">
-- 💬 Ask me about **React, Node, SCSS, MySql, Html5, CSS3, JavaScript**
+- 💬 Ask me about **Html5, CSS3, JavaScript, SCSS, React, Node, SCSS, MongoDB, Express**
 <p align="center">
 - 📫 How to reach me **sasidharansteven@gmail.com**
 </p>
