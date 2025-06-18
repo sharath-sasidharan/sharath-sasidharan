@@ -31,12 +31,9 @@
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="80">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60">
-    <img src="https://www.cypress.io/icons/icon-48x48.png" alt="Cypress" width="60">
     <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" alt="Postman" width="80">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="60">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="60">
-    <img src="https://cucumber.io/images/cucumber-black.svg" alt="Cucumber" width="60">
   </div>
 </div>
 
