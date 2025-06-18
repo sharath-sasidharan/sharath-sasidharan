@@ -32,8 +32,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60">
     <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" alt="Postman" width="80">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="80">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="60">
+
+
   </div>
 </div>
 
