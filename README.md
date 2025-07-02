@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sarath Sasidharan</h1>
-<h3 align="center">A Passionate Web Developer.</h3>
+<h3 align="center">A Passionate Web Developer/Playwright automation.<span><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="80"></span> </h3>
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharath-sasidharan" alt="Sharath-Sasidharan" /> </p>
 <p align="center">
-- 🔭 I’m currently working at <strong>Dataseers</strong> as <strong>Full Stack Developer/Playwright Automation</strong>
+- 🔭 I’m currently working at <strong>Dataseers</strong> as <strong>Full Stack Developer/Playwright Automation </strong>
 <p align="center">
 - 💬 Ask me about **Html5, CSS3, JavaScript, SCSS, React, Node, SCSS, MongoDB, Express**
 <p align="center">
